@@ -1,0 +1,16 @@
+* { 
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #202C36;
+    
+    
+}
+
+body.light-mode {
+    background-color: #ffffff;
+}
