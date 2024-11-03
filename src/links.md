@@ -1,0 +1,2 @@
+- [Github repository](https://github.com/ManderssonTaurin/flagg.git)
+- [Deployat projekt](flagg-eight.vercel.app)
